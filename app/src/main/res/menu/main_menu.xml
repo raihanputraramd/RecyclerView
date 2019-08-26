@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemGrid"
+        android:title="Item Grid"/>
+    <item
+        android:id="@+id/itemStaggeredGrid"
+        android:title="Item Staggered Grid"/>
+    <item
+        android:id="@+id/itemHorizontal"
+        android:title="Item Horizontal"/>
+</menu>
